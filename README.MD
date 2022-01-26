@@ -2,7 +2,7 @@
 Vectorized PyTorch implementation of Particle Filter algorithm for video object tracking based on target color.
 
 ## Examples:
-### Occlusions
+### Occlusions:
 ![](./gif/bicycle_pf.gif)
 
 ### Low color contrast:
